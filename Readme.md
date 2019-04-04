@@ -2,12 +2,12 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
-* [HiddenColumn.aspx](./CS/HiddenColumn.aspx) (VB: [HiddenColumn.aspx.vb](./VB/HiddenColumn.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [HiddenColumn.aspx](./CS/HiddenColumn.aspx) (VB: [HiddenColumn.aspx](./VB/HiddenColumn.aspx))
 * [HiddenColumn.aspx.cs](./CS/HiddenColumn.aspx.cs) (VB: [HiddenColumn.aspx.vb](./VB/HiddenColumn.aspx.vb))
-* [ServerSideCalculation.aspx](./CS/ServerSideCalculation.aspx) (VB: [ServerSideCalculation.aspx.vb](./VB/ServerSideCalculation.aspx.vb))
+* [ServerSideCalculation.aspx](./CS/ServerSideCalculation.aspx) (VB: [ServerSideCalculation.aspx](./VB/ServerSideCalculation.aspx))
 * [ServerSideCalculation.aspx.cs](./CS/ServerSideCalculation.aspx.cs) (VB: [ServerSideCalculation.aspx.vb](./VB/ServerSideCalculation.aspx.vb))
-* **[SimplestApproach.aspx](./CS/SimplestApproach.aspx) (VB: [SimplestApproach.aspx.vb](./VB/SimplestApproach.aspx.vb))**
+* **[SimplestApproach.aspx](./CS/SimplestApproach.aspx) (VB: [SimplestApproach.aspx](./VB/SimplestApproach.aspx))**
 * [SimplestApproach.aspx.cs](./CS/SimplestApproach.aspx.cs) (VB: [SimplestApproach.aspx.vb](./VB/SimplestApproach.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to update an associated column editor in the Edit Form when the GridViewDataComboBoxColumn editor value is modified
